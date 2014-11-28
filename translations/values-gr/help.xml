@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     
-    <string name="help_map_ctrl">Map control</string>
+    <string name="help_map_ctrl">Χειρίσμος χάρτη</string>
     <string name="text_help_map_ctrl">
         <b>1</b> Free mode\n
         <b>2</b> Follow plane\n
